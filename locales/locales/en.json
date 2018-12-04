@@ -1491,36 +1491,6 @@
 	"quickMessageDesc": {
 		"message": "A pop-up dialog that allows you to send messages from anywhere on reddit. Messages can be sent from the quick message dialog by pressing control-enter or command-enter."
 	},
-	"redirectName": {
-		"message": "Redirect"
-	},
-	"redirectDesc": {
-		"message": "Prefer loading a particular view of profile page, subreddit front page, etc."
-	},
-	"redirectFromProfileLandingPageTitle": {
-		"message": "Redirect from profile landing page"
-	},
-	"redirectFromProfileLandingPageDesc": {
-		"message": "Redirect to a particular view of a profile when loading the default landing page (i.e. reddit.com/user/u_example/)."
-	},
-	"redirectCustomFromProfileLandingPageTitle": {
-		"message": "Custom Target From Profile Landing Page"
-	},
-	"redirectCustomFromProfileLandingPageDesc": {
-		"message": "Redirect to a custom view of a profile when loading the landing page, e.g. /user/username/{this}"
-	},
-	"redirectFromSubredditFrontPageTitle": {
-		"message": "Redirect from subreddit front page"
-	},
-	"redirectFromSubredditFrontPageDesc": {
-		"message": "Redirect to a particular view of a subreddit when loading the default front page (i.e. reddit.com/r/r_example/)."
-	},
-	"redirectCustomFromSubredditFrontPageTitle": {
-		"message": "Custom Target From Subreddit Front Page"
-	},
-	"redirectCustomFromSubredditFrontPageDesc": {
-		"message": "Redirect to a custom view of a subreddit when loading the front page, e.g. /r/r_example/{this}"
-	},
 	"resTipsName": {
 		"message": "RES Tips and Tricks"
 	},
@@ -4421,5 +4391,59 @@
 	},
 	"faviconUseLegacyDesc": {
 		"message": "If you don't like the new orange Reddit tab icon, revert to using the old Reddit icon instead."
+	},
+	"homeRedirectName": {
+		"message": "Home Page Redirect"
+	},
+	"homeRedirectDesc": {
+		"message": "Prefer loading a particular version of Reddit"
+	},
+	"redirectFromHomePageTitle": {
+		"message": "From The Reddit Home Page"
+	},
+	"redirectFromHomePageDesc": {
+		"message": "Redirect to a particular version of reddit (i.e. https://old.reddit.com)"
+	},
+	"redirectCustomFromHomePageTitle": {
+		"message": "Custom Target From Home Page"
+	},
+	"redirectCustomFromHomePageDesc": {
+		"message": "Redirect to a custom view of Reddit"
+	},
+	"profileRedirectReduxName": {
+		"message": "Profile Page Redirect"
+	},
+	"profileRedirectReduxDesc": {
+		"message": "Prefer loading a particular version of the user profile page"
+	},
+	"redirectFromProfileLandingPageReduxTitle": {
+		"message": "From The User Profile Landing Page"
+	},
+	"redirectFromProfileLandingPageReduxDesc": {
+		"message": "Redirect to a particular version of the user profile page (i.e. reddit.com/user/u_example/)"
+	},
+	"redirectCustomFromProfileLandingPageReduxTitle": {
+		"message": "Custom Target From Profile Landing Page"
+	},
+	"redirectCustomFromProfileLandingPageReduxDesc": {
+		"message": "Redirect to a custom view of a profile when loading the landing page, e.g. /user/username/{this}"
+	},
+	"subredditRedirectName": {
+		"message": "Subreddit Front Page Redirect"
+	},
+	"subredditRedirectDesc": {
+		"message": "Prefer loading a particular version of a subreddit's front page"
+	},
+	"redirectFromSubredditFrontPageTitle": {
+		"message": "Redirect from subreddit front page"
+	},
+	"redirectFromSubredditFrontPageDesc": {
+		"message": "Redirect to a particular view of a subreddit when loading the default front page (i.e. reddit.com/r/r_example/)."
+	},
+	"redirectCustomFromSubredditFrontPageTitle": {
+		"message": "Custom Target From Subreddit Front Page"
+	},
+	"redirectCustomFromSubredditFrontPageDesc": {
+		"message": "Redirect to a custom view of a subreddit when loading the front page, e.g. /r/r_example/{this}"
 	}
 }
